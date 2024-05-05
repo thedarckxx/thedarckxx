@@ -59,9 +59,14 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Vscode](https://img.shields.io/badge/Vscode-%2331A8FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+<details  align="center">
+  <summary>:zap: GitHub Stats</summary>
+
+  ![Stat](https://github-readme-stats-02.vercel.app/api?username=thedarckxx&show_icons=true&theme=tokyonight)
+
+</details>
 
 
-![Stat](https://github-readme-stats-02.vercel.app/api?username=thedarckxx&show_icons=true&theme=tokyonight)
 
 
 

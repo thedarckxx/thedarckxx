@@ -65,7 +65,6 @@
   <summary>:zap: GitHub Stats</summary>
   
   ![Stat](https://github-readme-stats-02.vercel.app/api?username=thedarckxx&show_icons=true&theme=tokyonight)
-  te
 </details>
 
 

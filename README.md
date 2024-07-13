@@ -71,9 +71,8 @@
 
 
 
-
-
-![snake gif](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Contribution Graph](https://raw.githubusercontent.com/thedarckxx/thedarckxx/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Contribution Graph](https://raw.githubusercontent.com/thedarckxx/thedarckxx/output/github-contribution-grid-snake.svg#gh-light-mode-only) 
 
 
 

@@ -1,4 +1,9 @@
+<div align="center">
+  <p><a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/></a></p>  
+</div>
 
+  [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://irusa.org/middle-east/palestine/)
+  
 
 # 💻 Tech Stack
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
@@ -65,9 +70,18 @@
 <details  align="center">
   <summary>:zap: GitHub Stats</summary>
   
+  ![Stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thedarckxx&theme=2077)
+  
+  
   ![Stat](https://github-readme-stats-02.vercel.app/api?username=thedarckxx&show_icons=true&theme=tokyonight&hide_title=true)
 
 </details>
+
+
+
+
+
+
 
 
 

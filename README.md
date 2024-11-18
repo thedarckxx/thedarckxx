@@ -63,7 +63,7 @@
 
 
 
-## 💻 My workspace
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="30px"> My workspace
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -97,7 +97,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=thedarckxx&icon=5&color=1)](https://visitcount.itsvg.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=42&duration=3000&pause=0&color=00DB38&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=150&separator=;&lines=2B+|+~2B,+;That'+s+FF)](https://git.io/typing-svg)
 
 
 

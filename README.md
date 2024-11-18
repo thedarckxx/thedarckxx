@@ -97,7 +97,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=42&duration=3000&pause=0&color=00DB38&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=150&separator=;&lines=2B+|+~2B,+;That'+s+FF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=42&duration=3000&pause=0&color=00DB38&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=150&separator=;&lines=2B+|+~2B,+That'+s+FF)](https://git.io/typing-svg)
 
 
 

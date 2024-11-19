@@ -71,7 +71,7 @@
 
   ![Stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thedarckxx&theme=2077)
 
-  ![Stat](https://github-readme-stats-02.vercel.app/api?username=thedarckxx&show_icons=true&theme=tokyonight&hide_title=true)
+  ![Stat](https://github-readme-stats-02.vercel.app/api?username=thedarckxx&show_icons=true&theme=tokyonight&)
 
 </details>
 

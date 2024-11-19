@@ -57,7 +57,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-## ![BongoCat](/resources/bongocat.gif) My workspace
+## <img src="https://raw.githubusercontent.com/thedarckxx /thedarckxx /main/resources/bongocat.gif" height="30px"> My workspace
 
 ![ArchLinux](https://img.shields.io/badge/-Arch%20Linux-grey?style=for-the-badge&logo=archlinux&logoColor=blue)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

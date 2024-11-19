@@ -4,7 +4,7 @@
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://irusa.org/middle-east/palestine/)
 
-# <img src="https://raw.githubusercontent.com/thedarckxx/thedarckxx/main/resources/pickaxe.png" width="40px" /> Tech Stack
+# <img src="https://raw.githubusercontent.com/thedarckxx/thedarckxx/main/resources/pickaxe.png" width="30px" /> Tech Stack
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)

@@ -2,7 +2,7 @@
   <p><a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/></a></p>  
 </div>
 
-  [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://irusa.org/middle-east/palestine/)
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://irusa.org/middle-east/palestine/)
   
 
 # 💻 Tech Stack
@@ -65,7 +65,8 @@
 
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="30px"> My workspace
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![ArchLinux](https://img.shields.io/badge/-Arch%20Linux-grey?style=for-the-badge&logo=archlinux&logoColor=blue)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Vscode](https://img.shields.io/badge/Vscode-%2331A8FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)

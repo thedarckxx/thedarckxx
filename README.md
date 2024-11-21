@@ -11,18 +11,18 @@
    <summary>:package: Tools & Technologies</summary>
    
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=%23FFFFFF&labelColor=181825)
-  ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=%23FFFFFF&labelColor=181825)
-  ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=%23FFFFFF&labelColor=181825)
+  ![YAML](https://img.shields.io/badge/yaml-750E21.svg?style=for-the-badge&logo=yaml&logoColor=%23FFFFFF&labelColor=181825)
+  ![JSON](https://img.shields.io/badge/json-FAB12F?style=for-the-badge&logo=json&logoColor=%23FFFFFF&labelColor=181825)
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=181825)
   ![CSS](https://img.shields.io/badge/css3-%235391FE.svg?style=for-the-badge&logo=css3&logoColor=%235391FE&labelColor=181825)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%239146FF.svg?style=for-the-badge&logo=bootstrap&logoColor=%239146FF&labelColor=181825)
   
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=181825)
-  ![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E&labelColor=181825)
+  ![JavaScript](https://img.shields.io/badge/javascript-FFE31A.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=181825)
+  ![JQuery](https://img.shields.io/badge/jquery-FFDB5C.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E&labelColor=181825)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=6DA55F&labelColor=181825)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&labelColor=181825)
-  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD0&labelColor=181825)
+  ![Express.js](https://img.shields.io/badge/express.js-088395.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&labelColor=181825)
+  ![Nodemon](https://img.shields.io/badge/NODEMON-06D001.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD0&labelColor=181825)
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=%23CB3837&labelColor=181825)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031&labelColor=181825)
   
@@ -34,7 +34,7 @@
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=%2344A833&labelColor=181825)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=181825)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=%23150458&labelColor=181825)
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=%23FA0F00&labelColor=181825)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-E3651D.svg?style=for-the-badge&logo=jupyter&logoColor=E3651D&labelColor=181825)
   
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=181825)
   ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=41CD52&labelColor=181825)
@@ -56,7 +56,7 @@
   
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=181825)
   ![Fhir](https://img.shields.io/badge/-fhir-%23DD2C00?style=for-the-badge&logo=fireship&labelColor=181825)
-  ![Uml](https://img.shields.io/badge/-UML-FABD14?style=for-the-badge&logo=uml&logoColor=FABD14&labelColor=181825)
+  ![Uml](https://img.shields.io/badge/-UML-FF8F00?style=for-the-badge&logo=uml&logoColor=FABD14&labelColor=181825)
   
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=%2331A8FF&labelColor=181825)
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6&labelColor=181825)

@@ -54,7 +54,7 @@
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=%232C5263&labelColor=181825)
   ![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=%23000000&labelColor=181825)
   
-  ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=4000BF&labelColor=181825)
+  
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=181825)
   ![Fhir](https://img.shields.io/badge/-fhir-%23DD2C00?style=for-the-badge&logo=fireship&labelColor=181825)
   ![Uml](https://img.shields.io/badge/-UML-FF8F00?style=for-the-badge&logo=uml&logoColor=FABD14&labelColor=181825)

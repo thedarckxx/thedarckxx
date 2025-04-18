@@ -2,7 +2,7 @@
   <p><a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%" alt="Support Palestine"/></a></p>
 </div>
 
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://irusa.org/middle-east/palestine/)
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://www.instagram.com/eye.on.palestine?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 # <img src="https://raw.githubusercontent.com/thedarckxx/thedarckxx/main/resources/pickaxe.png" width="30px" alt="Pickaxe Icon"/> Tech Stack
 

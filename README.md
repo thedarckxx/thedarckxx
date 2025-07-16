@@ -93,7 +93,6 @@
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=58E1FF&labelColor=181825)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=%BBDEAD&style=for-the-badge&labelColor=181825)
 ![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-41AD48.svg?style=for-the-badge&logo=codeblocks&logoColor=41AD48&labelColor=181825)
-![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=%23FFFFFF&labelColor=181825)
 
 
 <details  align="center">

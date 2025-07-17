@@ -61,7 +61,6 @@
   
   
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=181825)
-  ![Insomnia](https://img.shields.io/badge/Insomnia-5900CF.svg?style=for-the-badge&logo=insomnia&logoColor=5900CF&labelColor=181825)
   ![Fhir](https://img.shields.io/badge/-fhir-%23DD2C00?style=for-the-badge&logo=fireship&labelColor=181825)
 
   

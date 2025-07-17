@@ -46,10 +46,6 @@
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=00bcd4&labelColor=181825)
   ![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=zsh&logoColor=F15A24&labelColor=181825)
   
-
-
-  
- 
   ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF&labelColor=181825)
   ![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=4169e1&labelColor=181825)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b&labelColor=181825)
@@ -59,27 +55,23 @@
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=%232C5263&labelColor=181825)
   ![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=%23000000&labelColor=181825)
   
-  
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=181825)
+  ![Posting](https://img.shields.io/badge/Posting-D90293?style=for-the-badge&logo=telegram&logoColor=D90293&labelColor=181825)
   ![Fhir](https://img.shields.io/badge/-fhir-%23DD2C00?style=for-the-badge&logo=fireship&labelColor=181825)
 
-  
   ![Uml](https://img.shields.io/badge/-UML-FF8F00?style=for-the-badge&logo=uml&logoColor=FABD14&labelColor=181825)
   ![Diagrams.NET](https://img.shields.io/badge/Diagrams.NET-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705&labelColor=181825)
   ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670.svg?style=for-the-badge&logo=mermaid&logoColor=FF3670&labelColor=181825)
 
-  
   ![GIMP](https://img.shields.io/badge/GIMP-8D8174.svg?style=for-the-badge&logo=gimp&logoColor=8D8174&labelColor=181825)
   ![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-E9E9E9.svg?style=for-the-badge&logo=photopea&logoColor=%23FFFFFF&labelColor=181825)
   ![Affinity](https://img.shields.io/badge/Affinity-%23000000.svg?style=for-the-badge&logo=affinity&logoColor=%23FFFFFF&labelColor=181825)
   ![Penpot](https://img.shields.io/badge/Penpot-%23000000.svg?style=for-the-badge&logo=penpot&logoColor=%23FFFFFF&labelColor=181825)
   
-
   ![Gitea](https://img.shields.io/badge/Gitea-73A952.svg?style=for-the-badge&logo=gitea&logoColor=73A952&labelColor=181825)
   ![GitLab](https://img.shields.io/badge/GitLab-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=%23E24329&labelColor=181825)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF&labelColor=181825)
 
-  
   ![Obsidian](https://img.shields.io/badge/Obsidian-976EEA.svg?style=for-the-badge&logo=obsidian&logoColor=976EEA&labelColor=181825)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=%23FFFFFF&labelColor=181825)
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=%23117AC9&labelColor=181825)

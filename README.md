@@ -48,6 +48,7 @@
 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed&labelColor=181825)
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=%232C5263&labelColor=181825)
+  ![C](https://img.shields.io/badge/coolify-7D3FF8.svg?style=for-the-badge&logo=c&logoColor=7D3FF8&labelColor=181825)
   ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=181825)
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=%23D42029&labelColor=181825)
 
@@ -59,7 +60,6 @@
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&labelColor=181825)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=00bcd4&labelColor=181825)
   ![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=zsh&logoColor=F15A24&labelColor=181825)
-
 
   ![Gitea](https://img.shields.io/badge/Gitea-73A952.svg?style=for-the-badge&logo=gitea&logoColor=73A952&labelColor=181825)
   ![GitLab](https://img.shields.io/badge/GitLab-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=%23E24329&labelColor=181825)

@@ -48,7 +48,7 @@
 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed&labelColor=181825)
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=%232C5263&labelColor=181825)
-  ![C](https://img.shields.io/badge/coolify-7D3FF8.svg?style=for-the-badge&logo=c&logoColor=7D3FF8&labelColor=181825)
+  ![Coolify](https://img.shields.io/badge/coolify-7D3FF8.svg?style=for-the-badge&logo=c&logoColor=7D3FF8&labelColor=181825)
   ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=181825)
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=%23D42029&labelColor=181825)
 

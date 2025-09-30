@@ -27,7 +27,7 @@
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=%23CB3837&labelColor=181825)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031&labelColor=181825)
 
-  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=%23D42029&labelColor=181825)
+  
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=181825)
   ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=885630&labelColor=181825)
   ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=%23000000&labelColor=181825)
@@ -41,11 +41,6 @@
   ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=41CD52&labelColor=181825)
   ![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=181825)
 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=%23F05033&labelColor=181825)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&labelColor=181825)
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=00bcd4&labelColor=181825)
-  ![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=zsh&logoColor=F15A24&labelColor=181825)
-
   ![MariaDB](https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=%23FFFFFF&labelColor=181825)
   ![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=4169e1&labelColor=181825)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b&labelColor=181825)
@@ -53,11 +48,22 @@
 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed&labelColor=181825)
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=%232C5263&labelColor=181825)
-  ![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=%23000000&labelColor=181825)
+  ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=181825)
+  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=%23D42029&labelColor=181825)
 
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=181825)
   ![Posting](https://img.shields.io/badge/Posting-D90293?style=for-the-badge&logo=telegram&logoColor=D90293&labelColor=181825)
   ![Fhir](https://img.shields.io/badge/-fhir-%23DD2C00?style=for-the-badge&logo=fireship&labelColor=181825)
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=%23F05033&labelColor=181825)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&labelColor=181825)
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=00bcd4&labelColor=181825)
+  ![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=zsh&logoColor=F15A24&labelColor=181825)
+
+
+  ![Gitea](https://img.shields.io/badge/Gitea-73A952.svg?style=for-the-badge&logo=gitea&logoColor=73A952&labelColor=181825)
+  ![GitLab](https://img.shields.io/badge/GitLab-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=%23E24329&labelColor=181825)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF&labelColor=181825)
 
   ![Uml](https://img.shields.io/badge/-UML-FF8F00?style=for-the-badge&logo=uml&logoColor=FABD14&labelColor=181825)
   ![Diagrams.NET](https://img.shields.io/badge/Diagrams.NET-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705&labelColor=181825)
@@ -67,10 +73,6 @@
   ![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-E9E9E9.svg?style=for-the-badge&logo=photopea&logoColor=%23FFFFFF&labelColor=181825)
   ![Affinity](https://img.shields.io/badge/Affinity-%23000000.svg?style=for-the-badge&logo=affinity&logoColor=%23FFFFFF&labelColor=181825)
   ![Penpot](https://img.shields.io/badge/Penpot-%23000000.svg?style=for-the-badge&logo=penpot&logoColor=%23FFFFFF&labelColor=181825)
-
-  ![Gitea](https://img.shields.io/badge/Gitea-73A952.svg?style=for-the-badge&logo=gitea&logoColor=73A952&labelColor=181825)
-  ![GitLab](https://img.shields.io/badge/GitLab-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=%23E24329&labelColor=181825)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF&labelColor=181825)
 
   ![Obsidian](https://img.shields.io/badge/Obsidian-976EEA.svg?style=for-the-badge&logo=obsidian&logoColor=976EEA&labelColor=181825)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=%23FFFFFF&labelColor=181825)
@@ -84,14 +86,6 @@
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=58E1FF&labelColor=181825)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=%BBDEAD&style=for-the-badge&labelColor=181825)
 ![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-41AD48.svg?style=for-the-badge&logo=codeblocks&logoColor=41AD48&labelColor=181825)
-
-
-<details  align="center">
-  <summary>:zap: GitHub Stats</summary>
-
-  ![Stat](https://github-readme-stats-02.vercel.app/api?username=thedarckxx&show_icons=true&theme=tokyonight&count_private=true)
-
-</details>
 
 ![GitHub Snake Contribution Graph](https://raw.githubusercontent.com/thedarckxx/thedarckxx/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake Contribution Graph](https://raw.githubusercontent.com/thedarckxx/thedarckxx/output/github-contribution-grid-snake.svg#gh-light-mode-only)

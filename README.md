@@ -71,7 +71,7 @@
 
   ![GIMP](https://img.shields.io/badge/GIMP-8D8174.svg?style=for-the-badge&logo=gimp&logoColor=8D8174&labelColor=181825)
   ![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-E9E9E9.svg?style=for-the-badge&logo=photopea&logoColor=%23FFFFFF&labelColor=181825)
-  ![Affinity](https://img.shields.io/badge/Affinity-%23000000.svg?style=for-the-badge&logo=affinity&logoColor=%23FFFFFF&labelColor=181825)
+  ![Inkscape](https://img.shields.io/badge/Inkscape-%23000000.svg?style=for-the-badge&logo=inkscape &logoColor=%23FFFFFF&labelColor=181825)
   ![Penpot](https://img.shields.io/badge/Penpot-%23000000.svg?style=for-the-badge&logo=penpot&logoColor=%23FFFFFF&labelColor=181825)
 
   ![Obsidian](https://img.shields.io/badge/Obsidian-976EEA.svg?style=for-the-badge&logo=obsidian&logoColor=976EEA&labelColor=181825)

@@ -83,7 +83,6 @@
 ## <img src="https://raw.githubusercontent.com/thedarckxx/thedarckxx/main/resources/bongocat.gif" height="30px" alt="Bongo Cat GIF"/> My workspace
 
 ![ArchLinux](https://img.shields.io/badge/-Arch%20Linux-169DD7?style=for-the-badge&logo=archlinux&logoColor=2BFAFA&labelColor=181825)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=58E1FF&labelColor=181825)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=%BBDEAD&style=for-the-badge&labelColor=181825)
 ![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-41AD48.svg?style=for-the-badge&logo=codeblocks&logoColor=41AD48&labelColor=181825)
 

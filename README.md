@@ -75,7 +75,7 @@
   ![Penpot](https://img.shields.io/badge/Penpot-%23000000.svg?style=for-the-badge&logo=penpot&logoColor=%23FFFFFF&labelColor=181825)
 
   ![Obsidian](https://img.shields.io/badge/Obsidian-976EEA.svg?style=for-the-badge&logo=obsidian&logoColor=976EEA&labelColor=181825)
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=%23FFFFFF&labelColor=181825)
+  ![Anytype](https://img.shields.io/badge/anytype-FF6A7B.svg?style=for-the-badge&logo=anytype&logoColor=FF6A7B&labelColor=181825)
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=%23117AC9&labelColor=181825)
 
 </details>

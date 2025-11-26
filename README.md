@@ -26,7 +26,6 @@
   ![Nodemon](https://img.shields.io/badge/NODEMON-06D001.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD0&labelColor=181825)
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=%23CB3837&labelColor=181825)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031&labelColor=181825)
-
   
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=181825)
   ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=885630&labelColor=181825)
@@ -39,7 +38,6 @@
 
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=181825)
   ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=41CD52&labelColor=181825)
-  ![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=181825)
 
   ![MariaDB](https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=%23FFFFFF&labelColor=181825)
   ![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=4169e1&labelColor=181825)
